@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31827ca0cea7fe4bb03ce1f67b4a6b9, type: 3}
+  m_Name: New Items CFG
+  m_EditorClassIdentifier: 
+  items:
+  - Title: Cube
+    pref: {fileID: 7974204849053331695, guid: 7f726fcc74a40614e98f4583dc674042, type: 3}
+    Price: 500
+  - Title: Sphere
+    pref: {fileID: 16474530833975680, guid: 99b2a90b18e7d384abfbeb46aa4ad80f, type: 3}
+    Price: 750
+  - Title: Cylinder
+    pref: {fileID: 5598999982995467822, guid: eb7eddb01d614ad4caeaa65c84f37f54, type: 3}
+    Price: 1000
+  - Title: Capsule
+    pref: {fileID: 6359372651125901357, guid: c0361ff635837a440841e25e29b4d6e1, type: 3}
+    Price: 1250
